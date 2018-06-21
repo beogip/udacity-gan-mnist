@@ -1,0 +1,13 @@
+.DS_Store
+
+# Ignore downloaded datasets
+.ipynb_checkpoints/
+MNIST_data
+train_samples.pkl
+
+*.pyc
+*.p
+*.pkl 
+
+*/.floyd*
+
